@@ -15,6 +15,22 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 50px ;
-    
+    font-size: 50px ;   
+}
+.content{
+    height: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.left-content{
+    width: 45%;
+}
+.right-content{
+    width: 45%;
+}
+.image{
+    height: 100%;
+    width: 50%;
 }
